@@ -6,4 +6,5 @@
 4. git status - Shows the current status of files.
 5. git push - Uploads local commits to GitHub.
 6. git pull - Downloads and combines changes from a remote repository.
-7. git branch - Lists, creates, or deletes branches.
+7. git branch - Lists, creates, or deletes branches.git checkout: Switches branches or restores working tree files.
+git diff: Shows changes between commits, commit and working tree, etc.
